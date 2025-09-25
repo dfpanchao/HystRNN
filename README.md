@@ -5,3 +5,5 @@ This repository contains the codes for different experiments conducted in the pa
 To run each of the experiment, navigate to the folder and then simply run python3 name.py
 
 For instance, to run HystRNN for Exp1, navigate to Exp1 and then run python3 HystRNN.py to run the HystRNN code.
+
+For example of PCM, to run HystRNN_PCM
